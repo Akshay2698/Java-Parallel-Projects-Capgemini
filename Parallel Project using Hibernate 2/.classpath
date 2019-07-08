@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/hibernate-core-3.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/hibernate-entitymanager-3.6.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Akshay Kumar Modi/Desktop/Hibernate lib/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

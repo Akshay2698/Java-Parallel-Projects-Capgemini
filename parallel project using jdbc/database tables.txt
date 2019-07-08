@@ -1,0 +1,14 @@
+customerslist
+	name varchar(15)
+	username not null varchar(15)
+	password varchar(15)
+
+transactionsidlist
+	transactionid varchar(22)
+
+transactionlist
+	transactionid varchar(22)
+	username varchar(15)
+	credit number(15,2)
+	debit number(15,2)
+	totalamount number(15,2)
